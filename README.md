@@ -1,27 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
-</head>
-
-<style>
-	* {
-		font-family: 'poppins';
-		box-sizing: border-box;
-	}
-
-	svg {
-		width: 80px;
-		height: 80px;
-	}
-</style>
-
-<body>
-	<div data-target="readme-toc.content" class="Box-body px-5 pb-5">
+<div data-target="readme-toc.content" class="Box-body px-5 pb-5">
 		<article class="markdown-body entry-content container-lg" itemprop="text">
 			<h1>Hi 👋</h1>
 			</h1>
@@ -51,6 +28,3 @@
 			</div>
 		</article>
 	</div>
-</body>
-
-</html>
