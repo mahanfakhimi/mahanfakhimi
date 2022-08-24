@@ -1,4 +1,4 @@
-<div data-target="readme-toc.content" class="Box-body px-5 pb-5">
+
 		<article class="markdown-body entry-content container-lg" itemprop="text">
 			<h1>Hi 👋</h1>
 			</h1>
@@ -27,4 +27,4 @@
 				</svg>
 			</div>
 		</article>
-	</div>
+	
