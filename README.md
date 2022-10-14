@@ -34,15 +34,7 @@
 						alt="Go"
 						data-canonical-src="https://img.shields.io/badge/Go-informational?style=flat-square&amp;logo=Go&amp;logoColor=black&amp;color=79D4FD"
 						style="max-width: 100%;"></a>
-				<a href="https://html.spec.whatwg.org/multipage/" rel="nofollow"><img
-									<a href="https://expressjs.com/" rel="nofollow"><img
-						src="https://camo.githubusercontent.com/3444e88e11fafdead2a32642b3c70ec71ea3f09632c2c9f05e45aa19773c34ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d65787072657373266c6f676f436f6c6f723d776869746526636f6c6f723d303130313031"
-						alt="express"
-						data-canonical-src="https://img.shields.io/badge/Express-informational?style=flat-square&amp;logo=express&amp;logoColor=white&amp;color=010101"
-						style="max-width: 100%;"></a>src="https://camo.githubusercontent.com/97fb09ba9cb33429b8102d9d2a1edda2e909cc404971b233aa1d8b385d74d824/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d776869746526636f6c6f723d453334463236"
-						alt="html"
-						data-canonical-src="https://img.shields.io/badge/HTML-informational?style=flat-square&amp;logo=html5&amp;logoColor=white&amp;color=E34F26"
-						style="max-width: 100%;"></a>
+				<a href="https://html.spec.whatwg.org/multipage/" rel="nofollow"><img						
 				<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"><img
 						src="https://camo.githubusercontent.com/e59dfc00dea54801a4bb3c6dcb7266f64ad8c8b151863bfb430e720cd968552e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d776869746526636f6c6f723d313936386130"
 						alt="css"
