@@ -23,14 +23,6 @@
     pixel-perfect user interfaces while being clean and efficient behind the scenes. <br />
     I enjoy constantly learning and improving my skills with the many technologies that power the web.
   </p>
-
-  <a href="https://wakatime.com/@dc6273a6-e578-4f0b-900f-f060bb3d0f3a" rel="nofollow"
-    ><img
-      src="https://camo.githubusercontent.com/24c3f5d0a5152ebdb0cdc100f87200f1bf138583e041a25513d85a7f44914f1b/68747470733a2f2f77616b6174696d652e636f6d2f62616467652f757365722f64633632373361362d653537382d346630622d393030662d6630363062623364306633612e737667"
-      alt="Total time coded since Dec 14 2020"
-      data-canonical-src="https://wakatime.com/badge/user/dc6273a6-e578-4f0b-900f-f060bb3d0f3a.svg"
-      style="max-width: 100%"
-  /></a>
   <h2 dir="auto">
     <a id="user-content-skills-and-technologies" class="anchor" aria-hidden="true" href="#skills-and-technologies"
       ><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
