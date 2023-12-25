@@ -10,16 +10,13 @@ I'm a Front-end software engineer who enjoys building things that live on the in
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mahanfakhimi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<details>
-  <summary>More</summary>
   <div align="center">
     <br/>
         <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mahanfakhimi Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahanfakhimi&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mahanfakhimi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanfakhimi&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <br/>
   </div>
-  <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
-</details>
+
 
 
 ## 🏆 GitHub Trophies
