@@ -11,7 +11,7 @@ I'm a Front-end software engineer who enjoys building things that live on the in
 ![](https://github-readme-stats.vercel.app/api?username=mahanfakhimi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <div>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=mahanfakhimi&theme=dark&hide_border=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=mahanfakhimi&theme=dark&hide_border=false)</br>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahanfakhimi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
