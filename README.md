@@ -18,6 +18,11 @@ I'm a Front-end software engineer who enjoys building things that live on the in
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img
+  src="https://raw.githubusercontent.com/mahanfakhimi/mahanfakhimi/output/snake.svg"
+  alt="Snake animation"
+/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mahanfakhimi&icon=8&color=1)](https://visitcount.itsvg.in)
 
