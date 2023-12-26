@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a Front-end software engineer who enjoys building things that live on the internet.<br>I develop exceptional websites and web apps that provide intuitive,<br>pixel-perfect user interfaces while being clean and efficient behind the scenes.<br>I enjoy constantly learning and improving my skills with the many technologies that power the web.
-
+As a full-stack developer, I excel in creating end-to-end solutions for websites and web applications. My expertise spans both front-end and back-end development, allowing me to deliver seamless and comprehensive digital experiences. I am dedicated to crafting robust and efficient solutions across the entire technology stack.
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@dev.mahanfakhimi) 
